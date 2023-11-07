@@ -1,0 +1,45 @@
+Ranking de canciones mas escuchas
+canciones por año
+%de canciones segun bailables
+filtros por años mes canciones por artista por genero 
+Genero segun bpm
+R&B: 75 BPM (Género lento, marcado por notas largas
+RAP: 90 BPM
+HIP-HOP: 100 BPM
+REGGAE: 100 BPM
+CUMBIA: 90 BPM
+POP/ROCK/DANCE: 120 BPM
+HEAVY METAL/ PUNK: 140 BPM
+
+Análisis musical: explore patrones en funciones de audio para comprender tendencias y preferencias en canciones populares.
+Impacto del artista: arapnalice cómo la participación y los atributos del artista se relacionan con el éxito de una canción.
+Tendencias temporales: identifique cualquier cambio en los atributos y preferencias musicales a lo largo del tiempo.
+
+
+
+
+Características clave:
+track_name: nombre de la canción
+artista(s)_name: Nombre del artista(s) de la canción
+artista_count: Número de artistas que contribuyen a la canción.
+released_year: año en que se lanzó la canción.
+released_month: Mes en el que se lanzó la canción.
+released_day: Día del mes en que se lanzó la canción.
+in_spotify_playlists: Número de listas de reproducción de Spotify en las que está incluida la canción
+in_spotify_charts: Presencia y ranking de la canción en las listas de Spotify
+transmisiones: Número total de transmisiones en Spotify
+in_apple_playlists: número de listas de reproducción de Apple Music en las que está incluida la canción
+in_apple_charts: Presencia y rango de la canción en las listas de Apple Music
+in_deezer_playlists: Número de listas de reproducción de Deezer en las que está incluida la canción
+in_deezer_charts: Presencia y rango de la canción en las listas de Deezer
+in_shazam_charts: Presencia y rango de la canción en las listas de Shazam
+bpm: pulsaciones por minuto, una medida del tempo de la canción.
+clave: Clave de la canción
+modo: Modo de la canción (mayor o menor)
+danceability_%: Porcentaje que indica qué tan adecuada es la canción para bailar
+valence_%: Positividad del contenido musical de la canción.
+energía_%: Nivel de energía percibido de la canción.
+acusticness_%: Cantidad de sonido acústico en la canción.
+instrumentalness_%: Cantidad de contenido instrumental en la canción.
+liveness_%: Presencia de elementos de actuación en vivo.
+Speechiness_%: cantidad de palabras habladas en la canción.
